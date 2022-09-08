@@ -1,0 +1,9 @@
++ scrollto qui marche
+- thème clair/sombre (js)
++ custom scrollbar
+- récolter data autres artistes
+- archives link --> variable
++ fonts en local (voir à changer)
+- background qui change onScroll
+- interactivité (?)
+- load time
